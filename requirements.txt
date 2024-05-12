@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+matplotlib
+argparse
+black
+isort
